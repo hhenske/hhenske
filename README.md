@@ -1,10 +1,7 @@
-#Holly Henske, Web Developer
+#Holly Henske, Web Developer#
 
-- 👋 Hi, I’m @hhenske (Holly Henske)
-- 👀 I’m interested in Web development, HTML, CSS and JavaScript, as well as learning new languages
-- 🌱 I’m currently looking for a job coding in JavaScript, Python, SQL, front-end, full stack, or anything new I can learn.
+👋 Hi, I’m Holly Henske, former educator
+👀 I have projects using HTML, CSS and JavaScript, React, and Python.
+🌱 I’m currently looking for a role in UX/UI, Web Development, technical customomer support, coding as a part of a team.
 
-<!---
-hhenske/hhenske is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
