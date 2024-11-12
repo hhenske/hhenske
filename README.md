@@ -1,7 +1,9 @@
 <h1>Holly Henske, Web Developer</h1>
 
-👋 Hi, I’m Holly Henske, former educator
-👀 I have projects using HTML, CSS and JavaScript, React, and Python.
-🌱 I’m currently looking for a role in UX/UI, Web Development, technical customomer support, coding as a part of a team.
+<body>
+<p>Former educator and avid learner, skilled at working alone or as part of a team.  I enjoy problem solving, building, refactoring, creating and optimizing, and am flexible and adaptable in terms of programming language, platform or tools.</p>
+
+  
+</body>
 
 
