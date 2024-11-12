@@ -3,7 +3,7 @@
 <body>
 Former educator and avid learner, skilled at working alone or as part of a team.  I enjoy problem solving, building, refactoring, creating
  and optimizing, and am flexible and adaptable in terms of programming language, platform or tools.
- <img src="https://github.com/user-attachments/assets/c8a4c5ab-dc31-4733-ae09-fa52f0d22ce4" height="100px" width="600px" />
+ <img src="https://github.com/user-attachments/assets/c8a4c5ab-dc31-4733-ae09-fa52f0d22ce4" height="150px" width="800px" />
   
 <h2>Work Experience</h2>
 <h3>Web Developer BluePenguin Payments</h3>
@@ -40,6 +40,10 @@ Former educator and avid learner, skilled at working alone or as part of a team.
   <tr>Bubble.io</tr>
   <tr>2 years</tr>
   <tr>Learned and used in position at BluePenguin Payments</tr>
+  <tr>Figma</tr>
+  <tr>3 years</tr>
+  <tr>Learned at LauchCode, used for Google UX course, and for design reviews at BluePenguin</tr>
+  <br />
   <h2>Certifications & Certificates</h2>
 
   
@@ -47,7 +51,7 @@ Former educator and avid learner, skilled at working alone or as part of a team.
 </table>
 
 <h2>Education</h2>
-<img src="https://github.com/user-attachments/assets/c8a4c5ab-dc31-4733-ae09-fa52f0d22ce4" height="100px" width="600px" />
+<img src="https://github.com/user-attachments/assets/c8a4c5ab-dc31-4733-ae09-fa52f0d22ce4" height="150px" width="800px" />
   
 </body>
 
