@@ -37,7 +37,7 @@ Former educator and avid learner, skilled at working alone or as part of a team.
   <tr>2 years</tr>
   <tr>Learned in LaunchCode, used in capstone project, LiftOff project, and some in Codecademy projects</tr>
   <tr>Bubble.io</tr>
-  <tr>2 years</tr>
+  <tr> 2 years </tr>
   <tr>Learned and used in position at BluePenguin Payments</tr>
   <tr>Figma</tr>
   <tr>3 years</tr>
