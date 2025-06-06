@@ -18,39 +18,19 @@ Former educator and avid learner, skilled at working alone or as part of a team.
 <h3>Exersize Coach MVP, LaunchCode capstone project</h3>
 <br>
 <h2>Skills, Platforms, and Tools</h2>
-<table>
- <thead>
-  <tr>
-   <th>Skill</th>
-   <th>Experience</th>
-   <th>Description</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>HTML & CSS</tr>
-  <tr>5 years</tr>
-  <tr>Created web sites for several clients using only HTML/CSS</tr>
-  <tr>JavaScript</tr>
-  <tr>3 years</tr>
-  <tr>Learned in LaunchCode, used in capstone project, LiftOff project, and some at BluePenguin</tr>
-  <tr>React</tr>
-  <tr>2 years</tr>
-  <tr>Learned in LaunchCode, used in capstone project, LiftOff project, and some in Codecademy projects</tr>
-  <tr>Bubble.io</tr>
-  <tr> 2 years </tr>
-  <tr>Learned and used in position at BluePenguin Payments</tr>
-  <tr>Figma</tr>
-  <tr>3 years</tr>
-  <tr>Learned at LauchCode, used for Google UX course, and for design reviews at BluePenguin</tr>
-  <br />
-  <h2>Certifications & Certificates</h2>
-
-  
- </tbody>
-</table>
+<ul>
+ <li>HTML / CSS: 3 years, built and maintained 3 websites for 3 different artists showcasing their work</li>
+ <li>JavaScript: 3 years, learned in LaunchCode, completed small projects and 2 capstone projects wiith JavaScript adding user interaction and saving state. Also, some use with Bubble.io to customize code.</li>
+ <li>React: 2 years, Capstone projects were done with React. Also, completed Codecademy's React course, as well as Coursera, IBM full-stack course's React modules and final project</li>
+ <li>Bubble.io: 2.5 years, professional and personal experience with projects, both front-end and back-end, handling data, API calls, refactoring for responsiveness, testing, resolving bugs, and addressing user pain points</li>
+ <li>UX Design: 2 years, creation of websites mentioned above, designed small features for the customer portal at BluePenguin, completed Google's UX Design Specialization course from Coursera, which included 4 large projects, and the use of multiple design tools including Figma, AdobeXD, Canva, Wire framing, Prototyping, User research, and Design Fundamentals</li>
+ <li>Python: 1 year, completed several courses on Codecademy that envolved several small projects and passed the LinkedIn skills test in Python</li>
+</ul> 
+<br />
+<h2>Certifications & Certificates</h2>
+<img src="https://github.com/user-attachments/assets/c8a4c5ab-dc31-4733-ae09-fa52f0d22ce4" height="250px" width="800px" />
 
 <h2>Education</h2>
-<img src="https://github.com/user-attachments/assets/c8a4c5ab-dc31-4733-ae09-fa52f0d22ce4" height="250px" width="800px" />
   
 </body>
 
