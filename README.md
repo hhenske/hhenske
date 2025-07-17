@@ -11,6 +11,10 @@ Former educator and avid learner, skilled at working alone or as part of a team.
 <h2>Current Projects</h2>
 <h3>Full-Stack IBM course with projects on Coursera</h3>
 <h3>Frontend Mentor projects</h3>
+ <ul>
+  <li>https://hhenske.github.io/rest-countries-api/</li>
+  <li></li>
+ </ul>
 <h3>Collaboration: Projects With two different BackEnd Developers</h3>
 <br>
 <h2>Past Projects</h2>
