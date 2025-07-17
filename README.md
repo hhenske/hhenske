@@ -4,17 +4,28 @@
 Web developer, skilled in front-end technologies, including React, Javascript, and Bubble,io. Former educator and avid learner and collaborator. I enjoy problem solving, building, refactoring, creating and optimizing. Flexible and adaptable in terms of programming language, platform and tools.
  
 <h2>Work Experience</h2>
-<h3>Web Developer BluePenguin Payments</h3>
-<h3>French/Spanish Teacher, Fox High School</h3>
-<br>
+<ul>
+ <li>Short term remote Web Developer with a Bubble.io shop (April/May 2025)</li>
+ <li>Web Developer, BluePenguin Payments (2022-2024)</li>
+ <li>French/Spanish Teacher, Fox High School (through 2021)</li>
+</ul>
+
 <h2>Current Projects</h2>
-<h3>Full-Stack IBM course with projects on Coursera</h3>
-<h3>Frontend Mentor projects</h3>
+<p><strong>Full-Stack IBM course with projects on Coursera</strong></p>
+<p><strong>Frontend Mentor projects</strong></p>
  <ul>
   <li><strong>Using API calls to display country information: </strong>https://hhenske.github.io/rest-countries-api/</li>
   <li><strong>E-commerce page with lightbox and cart: </strong>https://hhenske.github.io/ecommerce-product-625/</li>
  </ul>
-<h3>Collaboration: Projects With two different BackEnd Developers</h3>
+<p><strong>Various Bubble.io projects</strong></p>
+<ul>
+  <li><strong>Personal Portfolio: </strong> http://personalportfoliohah.bubbleapps.io</li>
+  <li><strong>Task Tracker (not deployed</strong></li>
+ </ul>
+ <img width="415" height="194" alt="image" src="https://github.com/user-attachments/assets/e80225a0-2088-4fdc-add8-d7e7bab5184c" />
+ <img width="414" height="207" alt="image" src="https://github.com/user-attachments/assets/430e9340-1ba9-4955-8864-e622ef00a492" />
+
+
 <br>
 <h2>Past Projects</h2>
 <h3>Yoga pose app, collaborative project from LaunchCode LiftOFf project</h3>
