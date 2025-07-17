@@ -12,11 +12,12 @@ Web developer, skilled in front-end technologies, including React, Javascript, a
 </ul>
 
 <h2>Current Projects</h2>
+<ol>
 <p><strong>Full-Stack IBM course with projects on Coursera</strong></p>
 <p><strong>Frontend Mentor projects</strong></p>
  <ul>
-  <li><strong>Using API calls to display country information: </strong>https://hhenske.github.io/rest-countries-api/</li>
-  <li><strong>E-commerce page with lightbox and cart: </strong>https://hhenske.github.io/ecommerce-product-625/</li>
+  <li>Using API calls to display country information: https://hhenske.github.io/rest-countries-api/</li>
+  <li>>E-commerce page with lightbox and cart: https://hhenske.github.io/ecommerce-product-625/</li>
  </ul>
 <p><strong>Various Bubble.io projects</strong></p>
 <ul>
@@ -25,7 +26,8 @@ Web developer, skilled in front-end technologies, including React, Javascript, a
  </ul>
  <img width="415" height="194" alt="image" src="https://github.com/user-attachments/assets/e80225a0-2088-4fdc-add8-d7e7bab5184c" />
  <img width="414" height="207" alt="image" src="https://github.com/user-attachments/assets/430e9340-1ba9-4955-8864-e622ef00a492" />
-<br>
+ </ol>
+
 <h2>Skills, Platforms, and Tools</h2>
 <ul>
  <li>HTML / CSS: 3 years, built and maintained 3 websites for 3 different artists showcasing their work</li>
