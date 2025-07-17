@@ -2,7 +2,7 @@
 
 
 <body>
-Web developer, skilled in front-end technologies, including React, Javascript, and Bubble,io. Former educator and avid learner and collaborator. I enjoy problem solving, building, refactoring, creating and optimizing. Flexible and adaptable in terms of programming language, platform and tools.
+Skilled in front-end technologies, including React, Javascript, and Bubble,io. Former educator and avid learner and collaborator. I enjoy problem solving, building, refactoring, creating and optimizing. Flexible and adaptable in terms of programming language, platform and tools.
  
 <h2>Work Experience</h2>
 <ul>
