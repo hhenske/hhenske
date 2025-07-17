@@ -36,10 +36,17 @@ Web developer, skilled in front-end technologies, including React, Javascript, a
 </ul> 
 <br />
 <h2>Certifications & Certificates</h2>
-<img src="https://github.com/user-attachments/assets/c8a4c5ab-dc31-4733-ae09-fa52f0d22ce4" height="250px" width="800px" />
+<ul>
+ <li>In Progress: Coursera's IBM Full-Stack course</li>
+ <li>Codecademy's Front-End Career Path</li>
+ <li>Coursera's Google UX Design Specialization</li>
+ <li><Momentum Academy Bubble.io Developer Intensive | Cohort C/li>
+  <li>LaunchCode Womens+ Front-End Web Development & Lift-Off Programs</li>
+</ul>
 
 <h2>Education</h2>
-(Coming soon)
+Master of Arts in Teaching, Webster University with focus in French and Spanish
+Bachelor of Arts in Music Education, Webster University
   
 </body>
 
