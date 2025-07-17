@@ -17,7 +17,7 @@ Web developer, skilled in front-end technologies, including React, Javascript, a
 <p><strong>Frontend Mentor projects</strong></p>
  <ul>
   <li>Using API calls to display country information: https://hhenske.github.io/rest-countries-api/</li>
-  <li>>E-commerce page with lightbox and cart: https://hhenske.github.io/ecommerce-product-625/</li>
+  <li>E-commerce page with lightbox and cart: https://hhenske.github.io/ecommerce-product-625/</li>
  </ul>
 <p><strong>Various Bubble.io projects</strong></p>
 <ul>
