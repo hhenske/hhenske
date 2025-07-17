@@ -25,10 +25,6 @@ Web developer, skilled in front-end technologies, including React, Javascript, a
  <img width="415" height="194" alt="image" src="https://github.com/user-attachments/assets/e80225a0-2088-4fdc-add8-d7e7bab5184c" />
  <img width="414" height="207" alt="image" src="https://github.com/user-attachments/assets/430e9340-1ba9-4955-8864-e622ef00a492" />
 <br>
-<h2>Past Projects</h2>
-<h3>Yoga pose app, collaborative project from LaunchCode LiftOFf project</h3>
-<h3>Exersize Coach MVP, LaunchCode capstone project</h3>
-<br>
 <h2>Skills, Platforms, and Tools</h2>
 <ul>
  <li>HTML / CSS: 3 years, built and maintained 3 websites for 3 different artists showcasing their work</li>
@@ -43,6 +39,7 @@ Web developer, skilled in front-end technologies, including React, Javascript, a
 <img src="https://github.com/user-attachments/assets/c8a4c5ab-dc31-4733-ae09-fa52f0d22ce4" height="250px" width="800px" />
 
 <h2>Education</h2>
+(Coming soon)
   
 </body>
 
