@@ -1,8 +1,7 @@
 <h1>Holly Henske, Web Developer</h1>
 
 <body>
-Former educator and avid learner, skilled at working alone or as part of a team.  I enjoy problem solving, building, refactoring, creating
- and optimizing, and am flexible and adaptable in terms of programming language, platform or tools.
+Web developer, skilled in front-end technologies, including React, Javascript, and Bubble,io. Former educator and avid learner and collaborator. I enjoy problem solving, building, refactoring, creating and optimizing. Flexible and adaptable in terms of programming language, platform and tools.
  
 <h2>Work Experience</h2>
 <h3>Web Developer BluePenguin Payments</h3>
