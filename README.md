@@ -19,6 +19,7 @@ Skilled in front-end technologies, including React, Javascript, and Bubble,io. F
   <li>Using API calls to display country information: https://hhenske.github.io/rest-countries-api/</li>
   <li>E-commerce page with lightbox and cart: https://hhenske.github.io/ecommerce-product-625/</li>
  </ul>
+ <br>
 <p><strong>Various Bubble.io projects</strong></p>
 <ul>
   <li><strong>Personal Portfolio: </strong> http://personalportfoliohah.bubbleapps.io</li>
