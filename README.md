@@ -31,12 +31,12 @@ Skilled in front-end technologies, including React, Javascript, and Bubble,io. F
 
 <h2>Skills, Platforms, and Tools</h2>
 <ul>
- <li>HTML / CSS: 3 years, built and maintained 3 websites for 3 different artists showcasing their work</li>
- <li>JavaScript: 3 years, learned in LaunchCode, completed small projects and 2 capstone projects wiith JavaScript adding user interaction and saving state. Also, some use with Bubble.io to customize code.</li>
- <li>React: 2 years, Capstone projects were done with React. Also, completed Codecademy's React course, as well as Coursera, IBM full-stack course's React modules and final project</li>
- <li>Bubble.io: 2.5 years, professional and personal experience with projects, both front-end and back-end, handling data, API calls, refactoring for responsiveness, testing, resolving bugs, and addressing user pain points</li>
- <li>UX Design: 2 years, creation of websites mentioned above, designed small features for the customer portal at BluePenguin, completed Google's UX Design Specialization course from Coursera, which included 4 large projects, and the use of multiple design tools including Figma, AdobeXD, Canva, Wire framing, Prototyping, User research, and Design Fundamentals</li>
- <li>Python: 1 year, completed several courses on Codecademy that envolved several small projects and passed the LinkedIn skills test in Python</li>
+ <li><strong>HTML / CSS: </strong>3 years, built and maintained 3 websites for 3 different artists showcasing their work</li>
+ <li><strong>JavaScript: </strong>3 years, learned in LaunchCode, completed small projects and 2 capstone projects wiith JavaScript adding user interaction and saving state. Also, some use with Bubble.io to customize code.</li>
+ <li><strong>React: </strong>2 years, Capstone projects were done with React. Also, completed Codecademy's React course, as well as Coursera, IBM full-stack course's React modules and final project</li>
+ <li><strong>Bubble.io: </strong>2.5 years, professional and personal experience with projects, both front-end and back-end, handling data, API calls, refactoring for responsiveness, testing, resolving bugs, and addressing user pain points</li>
+ <li><strong>UX Design: </strong>2 years, creation of websites mentioned above, designed small features for the customer portal at BluePenguin, completed Google's UX Design Specialization course from Coursera, which included 4 large projects, and the use of multiple design tools including Figma, AdobeXD, Canva, Wire framing, Prototyping, User research, and Design Fundamentals</li>
+ <li><strong>Python: </strong>1 year, completed several courses on Codecademy that envolved several small projects and passed the LinkedIn skills test in Python</li>
 </ul> 
 <br />
 <h2>Certifications & Certificates</h2>
