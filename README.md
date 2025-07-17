@@ -1,4 +1,5 @@
-<h1>Holly Henske, Web Developer</h1>
+<h1>Holly Henske, Web Developer</h1> <img width="107" height="94" alt="image" src="https://github.com/user-attachments/assets/ae96f0dc-39b4-4fac-a8c4-43525cd17c70" />
+
 
 <body>
 Web developer, skilled in front-end technologies, including React, Javascript, and Bubble,io. Former educator and avid learner and collaborator. I enjoy problem solving, building, refactoring, creating and optimizing. Flexible and adaptable in terms of programming language, platform and tools.
@@ -40,13 +41,15 @@ Web developer, skilled in front-end technologies, including React, Javascript, a
  <li>In Progress: Coursera's IBM Full-Stack course</li>
  <li>Codecademy's Front-End Career Path</li>
  <li>Coursera's Google UX Design Specialization</li>
- <li><Momentum Academy Bubble.io Developer Intensive | Cohort C/li>
-  <li>LaunchCode Womens+ Front-End Web Development & Lift-Off Programs</li>
+ <li>Momentum Academy Bubble.io Developer Intensive | Cohort C/li>
+ <li>LaunchCode Womens+ Front-End Web Development & Lift-Off Programs</li>
 </ul>
 
 <h2>Education</h2>
-Master of Arts in Teaching, Webster University with focus in French and Spanish
-Bachelor of Arts in Music Education, Webster University
+<ul>
+<li>Master of Arts in Teaching, Webster University with focus in French and Spanish</li>
+<li>Bachelor of Arts in Music Education, Webster University</li>
+</ul>
   
 </body>
 
