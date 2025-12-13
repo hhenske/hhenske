@@ -23,7 +23,7 @@ Skilled in front-end technologies, including React, Javascript, and Bubble,io. F
 <p><strong>Various Bubble.io projects</strong></p>
 <ul>
   <li><strong>Personal Portfolio: </strong> http://personalportfoliohah.bubbleapps.io</li>
-  <li><strong>Task Tracker (not deployed yet, not styled yet. In progress)</strong></li>
+  <li><strong>Task Tracker:</strong> https://personalportfoliohah.bubbleapps.io/ticket_tracker</li>
  </ul>
  <img width="415" height="194" alt="image" src="https://github.com/user-attachments/assets/e80225a0-2088-4fdc-add8-d7e7bab5184c" />
  <img width="414" height="207" alt="image" src="https://github.com/user-attachments/assets/430e9340-1ba9-4955-8864-e622ef00a492" />
