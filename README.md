@@ -13,12 +13,10 @@ Skilled in front-end technologies, including React, Javascript, and Bubble,io. F
 
 <h2>Current Projects</h2>
 <ol>
-<p><strong>Workout Tracker</strong></p>
+<p><strong>Workout Tracker: https://hhenske.github.io/workout-tracker/</strong></p>
 <p><strong>Collaboration for faith-based ministry: https://hhenske.github.io/ten-question-app/</strong></p>
- <ul>
-  <li>Using API calls to display country information: https://hhenske.github.io/rest-countries-api/</li>
-  <li>E-commerce page with lightbox and cart: https://hhenske.github.io/ecommerce-product-625/</li>
- </ul>
+<p>Using API calls to display country information: https://hhenske.github.io/rest-countries-api/</p>
+<p>E-commerce page with lightbox and cart: https://hhenske.github.io/ecommerce-product-625/</li>p>
  <br>
 <p><strong>Various Bubble.io projects</strong></p>
 <ul>
