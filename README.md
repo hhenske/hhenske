@@ -13,8 +13,8 @@ Skilled in front-end technologies, including React, Javascript, and Bubble,io. F
 
 <h2>Current Projects</h2>
 <ol>
-<p><strong>Full-Stack IBM course with projects on Coursera</strong></p>
-<p><strong>Frontend Mentor projects</strong></p>
+<p><strong>Workout Tracker</strong></p>
+<p><strong>Collaboration for faith-based ministry: https://hhenske.github.io/ten-question-app/</strong></p>
  <ul>
   <li>Using API calls to display country information: https://hhenske.github.io/rest-countries-api/</li>
   <li>E-commerce page with lightbox and cart: https://hhenske.github.io/ecommerce-product-625/</li>
@@ -41,7 +41,7 @@ Skilled in front-end technologies, including React, Javascript, and Bubble,io. F
 <br />
 <h2>Certifications & Certificates</h2>
 <ul>
- <li>In Progress: Coursera's IBM Full-Stack course</li>
+ <li>Coursera's IBM Full-Stack course</li>
  <li>Codecademy's Front-End Career Path</li>
  <li>Coursera's Google UX Design Specialization</li>
  <li>Momentum Academy Bubble.io Developer Intensive | Cohort C/li>
