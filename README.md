@@ -44,7 +44,7 @@ Skilled in front-end technologies, including React, Javascript, and Bubble,io. F
  <li>Coursera's IBM Full-Stack course</li>
  <li>Codecademy's Front-End Career Path</li>
  <li>Coursera's Google UX Design Specialization</li>
- <li>Momentum Academy Bubble.io Developer Intensive | Cohort C/li>
+ <li>Momentum Academy Bubble.io Developer Intensive | Cohort C</li>
  <li>LaunchCode Womens+ Front-End Web Development & Lift-Off Programs</li>
 </ul>
 
