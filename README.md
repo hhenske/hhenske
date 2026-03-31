@@ -1,55 +1,110 @@
-<h1>Holly Henske, Web Developer</h1> <img width="107" height="94" alt="image" src="https://github.com/user-attachments/assets/ae96f0dc-39b4-4fac-a8c4-43525cd17c70" />
+<h1>Holly Henske | Frontend Web Developer</h1>
 
+<p>
+  <img width="110" src="https://github.com/user-attachments/assets/ae96f0dc-39b4-4fac-a8c4-43525cd17c70" />
+</p>
 
-<body>
-Skilled in front-end technologies, including React, Javascript, and Bubble,io. Former educator and avid learner and collaborator. I enjoy problem solving, building, refactoring, creating and optimizing. Flexible and adaptable in terms of programming language, platform and tools.
- 
-<h2>Work Experience</h2>
+<p>
+Frontend developer with experience building responsive, user-focused web applications using React, JavaScript, and Bubble.io. 
+Former educator with a strong foundation in communication, problem-solving, and continuous learning.
+</p>
+
+<p>
+I enjoy building real-world applications, refining user experiences, and solving complex problems through clean, maintainable code. 
+Adaptable across tools, platforms, and technologies.
+</p>
+
+<hr />
+
+<h2>💼 Work Experience</h2>
+
 <ul>
- <li>Short term remote Web Developer with a Bubble.io shop (April/May 2025)</li>
- <li>Web Developer, BluePenguin Payments (2022-2024)</li>
- <li>French/Spanish Teacher, Fox High School (through 2021)</li>
+  <li><strong>Web Developer (Contract)</strong> – Bubble.io Agency (Apr–May 2025, Remote)</li>
+  <li><strong>Web Developer</strong> – BluePenguin Payments (2022–2024)</li>
+  <li><strong>French & Spanish Teacher</strong> – Fox High School (through 2021)</li>
 </ul>
 
-<h2>Current Projects</h2>
-<ol>
-<p><strong>Workout Tracker: https://hhenske.github.io/workout-tracker/</strong></p>
-<p><strong>Collaboration for faith-based ministry: https://hhenske.github.io/ten-question-app/</strong></p>
-<p>Using API calls to display country information: https://hhenske.github.io/rest-countries-api/</p>
-<p>E-commerce page with lightbox and cart: https://hhenske.github.io/ecommerce-product-625/<p>
- <br>
-<p><strong>Various Bubble.io projects</strong></p>
-<ul>
-  <li><strong>Personal Portfolio: </strong> http://personalportfoliohah.bubbleapps.io</li>
-  <li><strong>Task Tracker:</strong> https://personalportfoliohah.bubbleapps.io/ticket_tracker</li>
- </ul>
- </ol>
+<hr />
 
-<h2>Skills, Platforms, and Tools</h2>
+<h2>🚀 Projects</h2>
+
+<h3>Workout Tracker (Full-Stack App)</h3>
 <ul>
- <li><strong>HTML / CSS: </strong>3.5 years, built and maintained 3 websites for 3 different artists showcasing their work</li>
- <li><strong>JavaScript: </strong>3.5 years, learned in LaunchCode, completed small projects and 2 capstone projects wiith JavaScript adding user interaction and saving state. Also, some use with Bubble.io to customize code.</li>
- <li><strong>React: </strong>3 years, Capstone projects were done with React. Also, completed Codecademy's React course, as well as Coursera, IBM full-stack course's React modules and final project</li>
- <li><strong>Bubble.io: </strong>2.5 years, professional and personal experience with projects, both front-end and back-end, handling data, API calls, refactoring for responsiveness, testing, resolving bugs, and addressing user pain points</li>
- <li><strong>UX Design: </strong>3 years, creation of websites mentioned above, designed small features for the customer portal at BluePenguin, completed Google's UX Design Specialization course from Coursera, which included 4 large projects, and the use of multiple design tools including Figma, AdobeXD, Canva, Wire framing, Prototyping, User research, and Design Fundamentals</li>
- <li><strong>Python: </strong>1 year, completed several courses on Codecademy that envolved several small projects and passed the LinkedIn skills test in Python</li>
-</ul> 
-<br />
-<h2>Certifications & Certificates</h2>
-<ul>
- <li>Coursera's IBM Full-Stack course</li>
- <li>Codecademy's Front-End Career Path</li>
- <li>Coursera's Google UX Design Specialization</li>
- <li>Momentum Academy Bubble.io Developer Intensive | Cohort C</li>
- <li>LaunchCode Womens+ Front-End Web Development & Lift-Off Programs</li>
+  <li>React + Supabase application for tracking strength and cardio workouts</li>
+  <li>Features dynamic forms, workout generator, and dashboard analytics</li>
+  <li>
+    <a href="https://hhenske.github.io/workout-tracker/">Live App</a> | 
+    <a href="https://github.com/hhenske/workout-tracker">GitHub</a>
+  </li>
 </ul>
 
-<h2>Education</h2>
+<h3>Faith-Based Questionnaire App</h3>
 <ul>
-<li>Master of Arts in Teaching, Webster University with focus in French and Spanish</li>
-<li>Bachelor of Arts in Music Education, Webster University</li>
+  <li>Interactive, mobile-first application with conditional logic and guided user flow</li>
+  <li>
+    <a href="https://hhenske.github.io/ten-question-app/">Live App</a>
+  </li>
 </ul>
-  
-</body>
+
+<h3>REST Countries API App</h3>
+<ul>
+  <li>Fetches and displays country data using external APIs</li>
+  <li>
+    <a href="https://hhenske.github.io/rest-countries-api/">Live App</a>
+  </li>
+</ul>
+
+<h3>E-Commerce Product Page</h3>
+<ul>
+  <li>Responsive product page with cart functionality and lightbox gallery</li>
+  <li>
+    <a href="https://hhenske.github.io/ecommerce-product-625/">Live App</a>
+  </li>
+</ul>
+
+<h3>Bubble.io Projects</h3>
+<ul>
+  <li>
+    <strong>Portfolio:</strong> 
+    <a href="http://personalportfoliohah.bubbleapps.io">View App</a>
+  </li>
+  <li>
+    <strong>Task Tracker:</strong> 
+    <a href="https://personalportfoliohah.bubbleapps.io/ticket_tracker">View App</a>
+  </li>
+</ul>
+
+<hr />
+
+<h2>🛠 Skills & Tools</h2>
+
+<ul>
+  <li><strong>Frontend:</strong> React, JavaScript (ES6+), HTML, CSS</li>
+  <li><strong>Backend / Services:</strong> Supabase, REST APIs</li>
+  <li><strong>No-Code / Low-Code:</strong> Bubble.io</li>
+  <li><strong>UX / Design:</strong> Figma, Adobe XD, Canva, Wireframing, Prototyping</li>
+  <li><strong>Other:</strong> Python, Git, Responsive Design</li>
+</ul>
+
+<hr />
+
+<h2>📜 Certifications</h2>
+
+<ul>
+  <li>IBM Full-Stack Developer (Coursera)</li>
+  <li>Frontend Career Path (Codecademy)</li>
+  <li>Google UX Design Specialization (Coursera)</li>
+  <li>Bubble.io Developer Intensive (Momentum Academy)</li>
+  <li>LaunchCode Women+ Front-End Web Development & Lift-Off</li>
+</ul>
+
+<hr />
+
+<h2>🎓 Education</h2>
+
+<ul>
+  <li><strong>Master of Arts in Teaching</strong> – Webster University (French & Spanish)</li>
+  <li><strong>Bachelor of Arts in Music Education</strong> – Webster University</li>
+</ul>
 
 
